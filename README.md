@@ -1,6 +1,6 @@
 # Personal Website
 
-![Website Screenshot](https://github.com/d3vkk/personal-website/blob/master/screenshot.png)
+![Website Screenshot](https://github.com/d3vkk/personal-website/blob/master/img/screenshot.png)
 
 [d3vkk.github.io](https://d3vkk.github.io/)
 
