@@ -699,7 +699,7 @@ body.home #home-footer {
     left: 0;
     line-height: 18px;
     font-size: 12px;
-    text-align: right;
+    text-align: center;
     transition: color 1.5s
 }
 
