@@ -11,6 +11,9 @@ Built with:
 - CSS
 - HTML
 
-[This repo contains the readbale code](https://github.com/d3vkk/personal-website)
+Fork or clone this repo
+```
+git clone https://github.com/d3vkk/personal-website
+```
 
 © 2020 Donald K • Under MIT License
